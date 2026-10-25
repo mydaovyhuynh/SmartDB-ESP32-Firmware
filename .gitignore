@@ -1,0 +1,9 @@
+# ESP-IDF Build folders
+build/
+sdkconfig.old
+
+# Secrets
+wifi_credentials.h
+
+# VS Code local settings
+.vscode/
